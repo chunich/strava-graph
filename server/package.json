@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "server",
+  "version": "1.0.0",
+  "description": "back-end app with Apollo",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nic Chu",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "@graphql-tools/mock": "^9.0.3",
+    "@graphql-tools/schema": "^10.0.4",
+    "graphql": "^16.8.2",
+    "graphql-tag": "^2.12.6"
+  }
+}
