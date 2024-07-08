@@ -1,4 +1,6 @@
-# strava-graph
+# What
+- Trying to find another way to evaluate Strava stats VS Strava Premium
+- e.g. personal heatmap, consolidating/discovering running club heatmap, plot personal/club trends...
 
 ## Pulling Strava data
 
@@ -14,16 +16,21 @@
 ## Docs
 
 https://developers.google.com/maps/documentation/utilities/polylineutility
+
 https://www.markhneedham.com/blog/2020/12/15/strava-authorization-error-missing-read-permission/
 
 https://www.strava.com/settings/api
+
 https://developers.strava.com/docs/reference/#api-Streams
+
 https://www.strava.com/clubs/72363/recent_activity
 
 ## References
 
 https://github.com/OGladfelter/strava_heatmap/blob/main/heatmap/js/strava_api.js
+
 https://komanizer.com/
+
 https://www.reddit.com/r/Strava/comments/1dbxaxw/komqom_discovery_app/
 
 ## Obtaining Auth for Dev
