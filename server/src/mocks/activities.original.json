@@ -1,0 +1,851 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 100430022,
+    "resource_state": 1
+  },
+  "name": "Lunch Run",
+  "distance": 11327.2,
+  "moving_time": 3557,
+  "elapsed_time": 3667,
+  "total_elevation_gain": 6.7,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "id": 11605432223,
+  "start_date": "2024-06-08T16:04:09Z",
+  "start_date_local": "2024-06-08T11:04:09Z",
+  "timezone": "(GMT-06:00) America/Chicago",
+  "utc_offset": -18000.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 2,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a11605432223",
+    "polyline": "czd~FtkewOWEm@?iADgA?}AFaB?{@DiAAa@DeBBo@Hg@BgA?mBF[AoADw@Ag@B_CDw@AoA@g@Do@?i@E_AEgDJ_A?c@D_AAeADeA@e@?g@ESG_@[QE}@@OIEKMYGUcAaIWeBOq@Q}Ae@}CYyBO_By@wFEKQMIOCq@EOKOCMCYIMQIgABcACoAHk@AwAHi@?WAm@BeA?gCHuBAoBHiB?UD}E@K@[Jw@B[?y@Ii@?oFNcD@q@BKBUJI@cCAc@Gi@?eABqD@i@BKDGCGGCOAmAGmAEa@D}@CeC@m@CqAAoECu@?uAAWEKMKw@@c@CkCCQCSOKYSkE?cFEQOGe@Ay@Fc@?sBHyAA_AFiB?QDMLCTDbC?r@E\\ILy@FKBg@^kA`B_A|@o@`ASf@M`@[zAGd@I`CIt@GR]j@o@hB?d@N~BNd@XZLRBf@?\\Gv@Mh@mAbC]`AGf@]`FQbBUvAKX]b@KPw@bBs@hB_@|AWh@i@h@[f@YXwAn@OJq@PQFs@dA{AbBOXCX@JFFjAER?LDDVChBDT`AbBZZRLt@XX\\Xt@TVNH\\Dx@CNDLJLVBTA`@SdACxADv@DTTd@PTTRl@p@\\XPVN\\P`AZv@Et@?LDVVp@HXT`BBpAMbAm@hBOXQRqAp@eA^SNg@l@KXIp@FFN?|BEp@E`AAr@BNAZITCj@?jAG~A?jBKtADtBKjCBf@EbBCp@EvA?xBG|DCd@CnBCPEb@m@r@gAvDsGrAqBj@aA~@wAPYz@qAjAqB`AoARKf@MLMV]j@eA|@uAT_@vCsEp@kAjAiBfAqBhC}DFE^ALGTYLGNCzB?bBDjAKx@?zFMnDAvDKzBA~@G`DAR@j@J`@RXHlC?r@E~@?r@Er@DxDQp@Dh@?t@EjIEhAErA@|BCpDQ|BEv@BfAArCKhFE",
+    "resource_state": 3,
+    "summary_polyline": "czd~FtkewOWEm@?iADgA?}AFaB?{@DiAAa@DeBBo@Hg@BgA?mBF[AoADw@Ag@B_CDw@AoA@g@Do@?i@E_AEgDJ_A?c@D_AAeADeA@e@?g@ESG_@[QE}@@OIEKMYGUcAaIWeBOq@Q}Ae@}CYyBO_By@wFEKQMIOCq@EOKOCMCYIMQIgABcACoAHk@AwAHi@?WAm@BeA?gCHuBAoBHiB?UD}E@K@[Jw@B[?y@Ii@?oFNcD@q@BKBUJI@cCAc@Gi@?eABqD@i@BKDGCGGCOAmAGmAEa@D}@CeC@m@CqAAoECu@?uAAWEKMKw@@c@CkCCQCSOKYSkE?cFEQOGe@Ay@Fc@?sBHyAA_AFiB?QDMLCTDbC?r@E\\ILy@FKBg@^kA`B_A|@o@`ASf@M`@[zAGd@I`CIt@GR]j@o@hB?d@N~BNd@XZLRBf@?\\Gv@Mh@mAbC]`AGf@]`FQbBUvAKX]b@KPw@bBs@hB_@|AWh@i@h@[f@YXwAn@OJq@PQFs@dA{AbBOXCX@JFFjAER?LDDVChBDT`AbBZZRLt@XX\\Xt@TVNH\\Dx@CNDLJLVBTA`@SdACxADv@DTTd@PTTRl@p@\\XPVN\\P`AZv@Et@?LDVVp@HXT`BBpAMbAm@hBOXQRqAp@eA^SNg@l@KXIp@FFN?|BEp@E`AAr@BNAZITCj@?jAG~A?jBKtADtBKjCBf@EbBCp@EvA?xBG|DCd@CnBCPEb@m@r@gAvDsGrAqBj@aA~@wAPYz@qAjAqB`AoARKf@MLMV]j@eA|@uAT_@vCsEp@kAjAiBfAqBhC}DFE^ALGTYLGNCzB?bBDjAKx@?zFMnDAvDKzBA~@G`DAR@j@J`@RXHlC?r@E~@?r@Er@DxDQp@Dh@?t@EjIEhAErA@|BCpDQ|BEv@BfAArCKhFE"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [41.80914688, -87.85098752],
+  "end_latlng": [41.80931287, -87.85118541],
+  "average_speed": 3.184,
+  "max_speed": 4.394,
+  "average_cadence": 84.3,
+  "has_heartrate": true,
+  "average_heartrate": 165.2,
+  "max_heartrate": 182.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 190.8,
+  "elev_low": 186.7,
+  "upload_id": 12385432216,
+  "upload_id_str": "12385432216",
+  "external_id": "3030484657-1717862649-run.tcx",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "description": "⛅ 25c\n$40 from Nordstrom Rack, not bad!!",
+  "calories": 826.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3234571331963894638,
+      "resource_state": 2,
+      "name": "Trailhead to Maple",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 649,
+      "moving_time": 649,
+      "start_date": "2024-06-08T16:25:04Z",
+      "start_date_local": "2024-06-08T11:25:04Z",
+      "distance": 2082.4,
+      "start_index": 1224,
+      "end_index": 1872,
+      "average_cadence": 84.9,
+      "device_watts": false,
+      "average_heartrate": 173.0,
+      "max_heartrate": 182.0,
+      "segment": {
+        "id": 8449588,
+        "resource_state": 2,
+        "name": "Trailhead to Maple",
+        "activity_type": "Run",
+        "distance": 2082.4,
+        "average_grade": -0.0,
+        "maximum_grade": 9.8,
+        "elevation_high": 191.4,
+        "elevation_low": 185.0,
+        "start_latlng": [41.836739, -87.839264],
+        "end_latlng": [41.846043, -87.852211],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Brookfield",
+        "state": "Illinois",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3234571331965124462,
+      "resource_state": 2,
+      "name": "Salt Creek Trail (Brookfield Zoo to 26th Street Cutoff)",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 208,
+      "moving_time": 208,
+      "start_date": "2024-06-08T16:27:07Z",
+      "start_date_local": "2024-06-08T11:27:07Z",
+      "distance": 666.9,
+      "start_index": 1346,
+      "end_index": 1554,
+      "average_cadence": 84.3,
+      "device_watts": false,
+      "average_heartrate": 171.6,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 7183341,
+        "resource_state": 2,
+        "name": "Salt Creek Trail (Brookfield Zoo to 26th Street Cutoff)",
+        "activity_type": "Run",
+        "distance": 666.9,
+        "average_grade": -0.0,
+        "maximum_grade": 11.2,
+        "elevation_high": 191.8,
+        "elevation_low": 185.7,
+        "start_latlng": [41.838832, -87.837124],
+        "end_latlng": [41.842086, -87.84261],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Brookfield",
+        "state": "IL",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3234571331963158382,
+      "resource_state": 2,
+      "name": "Salt Creek Trail (26th Street Cutoff to Maple Ave)",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 311,
+      "moving_time": 311,
+      "start_date": "2024-06-08T16:30:37Z",
+      "start_date_local": "2024-06-08T11:30:37Z",
+      "distance": 993.5,
+      "start_index": 1556,
+      "end_index": 1867,
+      "average_cadence": 85.3,
+      "device_watts": false,
+      "average_heartrate": 173.1,
+      "max_heartrate": 182.0,
+      "segment": {
+        "id": 7183323,
+        "resource_state": 2,
+        "name": "Salt Creek Trail (26th Street Cutoff to Maple Ave)",
+        "activity_type": "Run",
+        "distance": 993.5,
+        "average_grade": -0.2,
+        "maximum_grade": 3.9,
+        "elevation_high": 189.0,
+        "elevation_low": 185.6,
+        "start_latlng": [41.842055, -87.84273],
+        "end_latlng": [41.84592, -87.852131],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Brookfield",
+        "state": "IL",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3234571331964910446,
+      "resource_state": 2,
+      "name": "Maple to Parking Lot West",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 233,
+      "moving_time": 233,
+      "start_date": "2024-06-08T16:35:55Z",
+      "start_date_local": "2024-06-08T11:35:55Z",
+      "distance": 726.5,
+      "start_index": 1874,
+      "end_index": 2106,
+      "average_cadence": 83.9,
+      "device_watts": false,
+      "average_heartrate": 170.7,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 8449568,
+        "resource_state": 2,
+        "name": "Maple to Parking Lot West",
+        "activity_type": "Run",
+        "distance": 726.5,
+        "average_grade": 0.3,
+        "maximum_grade": 8.4,
+        "elevation_high": 189.5,
+        "elevation_low": 186.5,
+        "start_latlng": [41.846031, -87.852287],
+        "end_latlng": [41.842339, -87.85775],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Grange Park",
+        "state": "Illinois",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3234571331961963374,
+      "resource_state": 2,
+      "name": "Salt Creek Trail (Maple Ave to 25th Ave)",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 366,
+      "moving_time": 366,
+      "start_date": "2024-06-08T16:36:04Z",
+      "start_date_local": "2024-06-08T11:36:04Z",
+      "distance": 1108.1,
+      "start_index": 1883,
+      "end_index": 2248,
+      "average_cadence": 84.5,
+      "device_watts": false,
+      "average_heartrate": 171.1,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 7183292,
+        "resource_state": 2,
+        "name": "Salt Creek Trail (Maple Ave to 25th Ave)",
+        "activity_type": "Run",
+        "distance": 1108.1,
+        "average_grade": 0.2,
+        "maximum_grade": 8.7,
+        "elevation_high": 189.5,
+        "elevation_low": 186.5,
+        "start_latlng": [41.845843, -87.852386],
+        "end_latlng": [41.843611, -87.861829],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Broadview",
+        "state": "IL",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3234571331964221294,
+      "resource_state": 2,
+      "name": "Kemman (Salt Creek Trail to 31st)",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 400,
+      "moving_time": 323,
+      "start_date": "2024-06-08T16:42:08Z",
+      "start_date_local": "2024-06-08T11:42:08Z",
+      "distance": 1000.4,
+      "start_index": 2246,
+      "end_index": 2570,
+      "average_cadence": 83.5,
+      "device_watts": false,
+      "average_heartrate": 170.9,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 24883020,
+        "resource_state": 2,
+        "name": "Kemman (Salt Creek Trail to 31st)",
+        "activity_type": "Run",
+        "distance": 1000.4,
+        "average_grade": -0.0,
+        "maximum_grade": 4.7,
+        "elevation_high": 190.4,
+        "elevation_low": 189.0,
+        "start_latlng": [41.843664, -87.861864],
+        "end_latlng": [41.834676, -87.861519],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "La Grange Park",
+        "state": "Illinois",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.8,
+      "elapsed_time": 319,
+      "elevation_difference": -0.2,
+      "moving_time": 319,
+      "split": 1,
+      "average_speed": 3.14,
+      "average_grade_adjusted_speed": 3.14,
+      "average_heartrate": 109.12893081761007,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 316,
+      "elevation_difference": -1.3,
+      "moving_time": 316,
+      "split": 2,
+      "average_speed": 3.17,
+      "average_grade_adjusted_speed": 3.16,
+      "average_heartrate": 165.74367088607596,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 303,
+      "elevation_difference": 0.2,
+      "moving_time": 303,
+      "split": 3,
+      "average_speed": 3.3,
+      "average_grade_adjusted_speed": 3.3,
+      "average_heartrate": 166.88778877887788,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 345,
+      "elevation_difference": 0.0,
+      "moving_time": 312,
+      "split": 4,
+      "average_speed": 3.21,
+      "average_grade_adjusted_speed": 3.21,
+      "average_heartrate": 171.99679487179486,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 314,
+      "elevation_difference": 0.5,
+      "moving_time": 314,
+      "split": 5,
+      "average_speed": 3.18,
+      "average_grade_adjusted_speed": 3.18,
+      "average_heartrate": 172.96178343949043,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 316,
+      "elevation_difference": 1.2,
+      "moving_time": 316,
+      "split": 6,
+      "average_speed": 3.17,
+      "average_grade_adjusted_speed": 3.18,
+      "average_heartrate": 173.20253164556962,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 321,
+      "elevation_difference": -2.0,
+      "moving_time": 321,
+      "split": 7,
+      "average_speed": 3.11,
+      "average_grade_adjusted_speed": 3.11,
+      "average_heartrate": 171.2492211838006,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 324,
+      "elevation_difference": 1.7,
+      "moving_time": 324,
+      "split": 8,
+      "average_speed": 3.1,
+      "average_grade_adjusted_speed": 3.11,
+      "average_heartrate": 171.33024691358025,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 387,
+      "elevation_difference": -0.7,
+      "moving_time": 310,
+      "split": 9,
+      "average_speed": 3.23,
+      "average_grade_adjusted_speed": 3.23,
+      "average_heartrate": 166.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 307,
+      "elevation_difference": 0.6,
+      "moving_time": 307,
+      "split": 10,
+      "average_speed": 3.25,
+      "average_grade_adjusted_speed": 3.26,
+      "average_heartrate": 173.0814332247557,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 317,
+      "elevation_difference": 0.1,
+      "moving_time": 317,
+      "split": 11,
+      "average_speed": 3.15,
+      "average_grade_adjusted_speed": 3.16,
+      "average_heartrate": 172.5173501577287,
+      "pace_zone": 0
+    },
+    {
+      "distance": 326.1,
+      "elapsed_time": 98,
+      "elevation_difference": 0.1,
+      "moving_time": 98,
+      "split": 12,
+      "average_speed": 3.33,
+      "average_grade_adjusted_speed": 3.33,
+      "average_heartrate": 174.24489795918367,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1609.9,
+      "elapsed_time": 508,
+      "elevation_difference": -0.5,
+      "moving_time": 508,
+      "split": 1,
+      "average_speed": 3.17,
+      "average_grade_adjusted_speed": 3.17,
+      "average_heartrate": 130.4595660749507,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.5,
+      "elapsed_time": 499,
+      "elevation_difference": -1.4,
+      "moving_time": 499,
+      "split": 2,
+      "average_speed": 3.23,
+      "average_grade_adjusted_speed": 3.22,
+      "average_heartrate": 167.5871743486974,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 536,
+      "elevation_difference": 1.3,
+      "moving_time": 503,
+      "split": 3,
+      "average_speed": 3.2,
+      "average_grade_adjusted_speed": 3.21,
+      "average_heartrate": 171.831013916501,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 514,
+      "elevation_difference": 0.3,
+      "moving_time": 514,
+      "split": 4,
+      "average_speed": 3.13,
+      "average_grade_adjusted_speed": 3.14,
+      "average_heartrate": 172.82684824902725,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 516,
+      "elevation_difference": 0.4,
+      "moving_time": 516,
+      "split": 5,
+      "average_speed": 3.12,
+      "average_grade_adjusted_speed": 3.13,
+      "average_heartrate": 171.24612403100775,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.1,
+      "elapsed_time": 573,
+      "elevation_difference": -0.5,
+      "moving_time": 496,
+      "split": 6,
+      "average_speed": 3.25,
+      "average_grade_adjusted_speed": 3.25,
+      "average_heartrate": 168.9233870967742,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.1,
+      "elapsed_time": 504,
+      "elevation_difference": 0.6,
+      "moving_time": 504,
+      "split": 7,
+      "average_speed": 3.19,
+      "average_grade_adjusted_speed": 3.19,
+      "average_heartrate": 172.77777777777777,
+      "pace_zone": 0
+    },
+    {
+      "distance": 60.8,
+      "elapsed_time": 17,
+      "elevation_difference": 0.0,
+      "moving_time": 17,
+      "split": 8,
+      "average_speed": 3.58,
+      "average_grade_adjusted_speed": 3.58,
+      "average_heartrate": 177.8235294117647,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 40530795425,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 3667,
+      "moving_time": 3557,
+      "start_date": "2024-06-08T16:04:09Z",
+      "start_date_local": "2024-06-08T11:04:09Z",
+      "distance": 11286.0,
+      "average_speed": 3.17,
+      "max_speed": 4.394,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 3558,
+      "total_elevation_gain": 6.7,
+      "average_cadence": 84.3,
+      "device_watts": false,
+      "average_heartrate": 165.2,
+      "max_heartrate": 182.0,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 49649444759,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 121,
+      "moving_time": 121,
+      "start_date": "2024-06-08T16:04:09Z",
+      "start_date_local": "2024-06-08T11:04:09Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 637,
+      "end_index": 758
+    },
+    {
+      "id": 49649444760,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 243,
+      "moving_time": 243,
+      "start_date": "2024-06-08T16:04:09Z",
+      "start_date_local": "2024-06-08T11:04:09Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 646,
+      "end_index": 889
+    },
+    {
+      "id": 49649444761,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 303,
+      "moving_time": 303,
+      "start_date": "2024-06-08T16:04:09Z",
+      "start_date_local": "2024-06-08T11:04:09Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 646,
+      "end_index": 949
+    },
+    {
+      "id": 49649444755,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 496,
+      "moving_time": 496,
+      "start_date": "2024-06-08T16:04:09Z",
+      "start_date_local": "2024-06-08T11:04:09Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2572,
+      "end_index": 3068
+    },
+    {
+      "id": 49649444756,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 1003,
+      "moving_time": 1003,
+      "start_date": "2024-06-08T16:04:09Z",
+      "start_date_local": "2024-06-08T11:04:09Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 9,
+      "end_index": 1013
+    },
+    {
+      "id": 49649444757,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 1591,
+      "moving_time": 1591,
+      "start_date": "2024-06-08T16:04:09Z",
+      "start_date_local": "2024-06-08T11:04:09Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 233,
+      "end_index": 1793
+    },
+    {
+      "id": 49649444758,
+      "resource_state": 2,
+      "name": "10K",
+      "activity": {
+        "id": 11605432223,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 100430022,
+        "resource_state": 1
+      },
+      "elapsed_time": 3248,
+      "moving_time": 3248,
+      "start_date": "2024-06-08T16:04:09Z",
+      "start_date_local": "2024-06-08T11:04:09Z",
+      "distance": 10000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 9,
+      "end_index": 3149
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "97661686-84f6-47ef-bf19-ef31ab001fd3",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/wL-rbuCR4sw-RsGaw2IVHMX8D93Av5_DROpUeAN9FTg-578x768.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/wL-rbuCR4sw-RsGaw2IVHMX8D93Av5_DROpUeAN9FTg-96x128.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "6e543185c64bc4b220c7bb3a12c284a77c563d9c",
+  "similar_activities": {
+    "effort_count": 13,
+    "average_speed": 2.9487835142605,
+    "min_average_speed": 2.7786939433976716,
+    "mid_average_speed": 2.9677869225838034,
+    "max_average_speed": 3.1844950867128197,
+    "pr_rank": 1,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.931819895191371, 2.920060619999135, 2.890336324720128,
+        2.892606544836214, 2.9918261975407465
+      ],
+      "current_activity_index": 4,
+      "min_speed": 2.7786939433976716,
+      "mid_speed": 2.9677869225838034,
+      "max_speed": 3.1844950867128197,
+      "direction": 1
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+}

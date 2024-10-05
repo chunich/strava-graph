@@ -29,7 +29,7 @@ async function startApolloServer() {
   const newObject = {};
   for (const p in parsedMockedActivity) {
     console.log({ key: p, value: parsedMockedActivity[p] });
-    newObject[p] = () => parsedMockedActivity[p];
+    newObject[p] = parsedMockedActivity[p];
   }
 
   // console.log({ newObject });
