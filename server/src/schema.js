@@ -18,16 +18,17 @@ const typeDefs = gql`
     distance: Float
     moving_time: Int
     elapsed_time: Int
+    total_elevation_gain: Float
     type: String
     start_date_local: String
     description: String
     calories: Float
-    splits_metric: [Split]
+    splits_metric: [SplitsMetric]
     athlete: Athlete
   }
 
-  "Split object"
-  type Split {
+  "Splits Metric object"
+  type SplitsMetric {
     split: Int
     distance: Float
     elapsed_time: Int

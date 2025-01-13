@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+import { act, useEffect, useState } from "react";
+import "./Activities.css";
 
 const gql = `
 query ExampleQuery {
@@ -9,6 +10,7 @@ query ExampleQuery {
       calories
       type
       start_date_local
+      description
       athlete {
         id
         resource_state
@@ -27,12 +29,16 @@ const secondsToMinutesAndSeconds = (seconds) => {
   const minutes = Math.floor(seconds / 60);
   const remainingSeconds = seconds % 60;
 
-  return `${minutes}:${remainingSeconds.toString().padStart(2, "0")}`;
+  return `${minutes}:${lpadString(remainingSeconds.toString(), 2, "0")}`;
 };
 
 const metersToKilometers = (meters) => {
   const km = meters / 1000;
   return km.toFixed(2);
+};
+
+const lpadString = (str, padCount, padChar = " ") => {
+  return str.padStart(padCount, padChar);
 };
 
 const Activities = () => {
@@ -51,20 +57,25 @@ const Activities = () => {
   }, []);
 
   return (
-    <div>
+    <div className="activity">
       {activities.map((activity) => (
-        <div key={activity.id}>
-          <h1>{activity.name}</h1>
+        <div key={activity.name}>
           <h2>
+            {activity.name} on {activity.start_date_local}
+          </h2>
+          <h3>{activity.description}</h3>
+          <h3>
             Moving Time: {secondsToMinutesAndSeconds(activity.moving_time)}
             {", "}
             Distance: {metersToKilometers(activity.distance)}km
-          </h2>
+          </h3>
           <div>
             {activity.splits_metric.map((metric) => (
               <div key={metric.split}>
-                Split: {metric.split}, Distance: {metric.distance}, Time:{" "}
-                {secondsToMinutesAndSeconds(metric.elapsed_time)}/km
+                Km #{lpadString(metric.split.toString(), 2)}, Distance:{" "}
+                {lpadString(metric.distance.toString(), 10, "_")}, Time:{" "}
+                {secondsToMinutesAndSeconds(metric.elapsed_time)}/km, Pace Zone:{" "}
+                {metric.pace_zone ?? "n/a"}
               </div>
             ))}
           </div>

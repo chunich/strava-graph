@@ -1,4 +1,5 @@
 # What
+
 - Trying to find another way to evaluate Strava stats VS Strava Premium
 - e.g. personal heatmap, consolidating/discovering running club heatmap, plot personal/club trends...
 
@@ -8,10 +9,17 @@
 
 - `npm i @apollo/server graphql graphql-tag`
 - https://www.apollographql.com/tutorials/lift-off-part1
+- `npm run start`
 
 ### `client` React.js
 
 - `npm create vite@latest`
+- `npm run dev`
+
+#### Issues
+
+- UnhandledPromiseRejectionWarning: SyntaxError: Unexpected token '??=' on execute "npm run dev" React - Vite
+- `nvm list` + `nvm use v20`
 
 ## Docs
 
